@@ -1,4 +1,4 @@
-# 🚀 DiazDev Landing Page
+# 🚀 CD Solutions Software Landing Page
 
 Bienvenido a la landing page de **CD Solutions Software**, un sitio moderno y responsivo creado para promocionar mis servicios como desarrollador freelance. Este proyecto refleja mi estilo, mis habilidades técnicas y mi enfoque profesional para ayudar a emprendedores y negocios a dar el salto al mundo digital.
 
